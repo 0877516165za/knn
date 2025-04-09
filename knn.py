@@ -4,5 +4,4 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-st.header('kairung')
-st.title('TESTPYTHON')
+st.title('การจําแนกข้อมูลด้วยเทคนิค Machine Learning')
